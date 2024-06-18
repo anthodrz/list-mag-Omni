@@ -1,11 +1,1 @@
-{
-  "nodes": {
-    "node1": {
-      "hostname": "host1.example.com",
-      "description": "Example Node 1",
-      "tags": "example",
-      "osFamily": "unix",
-      "username": "rundeck"
-    }
-  }
-}
+["x value for test","y value for test"]
